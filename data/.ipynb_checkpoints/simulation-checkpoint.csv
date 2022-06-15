@@ -1,0 +1,13 @@
+,timestamp,customer_name,customer_no,location
+0,09-06-2019 07:00,John,0,dairy
+1,09-06-2019 07:00,Terrance,1,dairy
+2,09-06-2019 07:00,Carrie,2,dairy
+3,09-06-2019 07:01,John,0,dairy
+4,09-06-2019 07:01,Terrance,1,dairy
+5,09-06-2019 07:01,Carrie,2,dairy
+6,09-06-2019 07:01,Ashley,3,checkout
+7,09-06-2019 07:02,John,0,dairy
+8,09-06-2019 07:02,Terrance,1,dairy
+9,09-06-2019 07:02,Carrie,2,dairy
+10,09-06-2019 07:02,Danielle,4,drinks
+11,09-06-2019 07:02,Jessica,5,drinks
