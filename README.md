@@ -1,5 +1,5 @@
 # Supermarket Simulation
-Simulation of the customer behavior in a supermarket with Markov Chain Modeling and focus on OOP
+Simulation of the customer behavior in a supermarket with Markov Chain Modeling and focusing on OOP
 
 The project consists of three part:
 - Performing Exploratory Data Analysis
